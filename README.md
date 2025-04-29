@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](https://github.com/shelugon/PvZ-Fusion-Launcher/commits/main)
 
-Professional launcher for Plants vs. Zombies Fusion mod with automatic updates and mod management.
+launcher for Plants vs. Zombies Fusion with automatic updates and mod management.
 
 ## Features
 
