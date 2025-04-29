@@ -1,33 +1,34 @@
-# PVZ Fusion Launcher 🚀
+# PVZ Fusion Launcher
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](https://github.com/shelugon/PvZ-Fusion-Launcher/commits/main)
 
-A feature-rich launcher for Plants vs. Zombies Fusion mod, providing automatic updates, mod management, and MelonLoader integration.
+Professional launcher for Plants vs. Zombies Fusion mod with automatic updates and mod management.
 
-![Launcher Screenshot](screenshot.png) *(Add screenshot later)*
+## Features
 
-## Features ✨
+- **Game Launch**: Direct executable control with parameter customization
+- **Auto-Updater**: Version checking and patching via GitHub Releases
+- **Mod Integration**: Built-in mod folder management
+- **MelonLoader Automation**: One-click installation and configuration
+- **Security Checks**: SHA-256 validation for all downloaded files
+- **Backup System**: Automatic backups before updates
 
-- 🎮 **One-click game launch**
-- 🔄 **Automatic updates** (GitHub Releases integration)
-- 📦 **Mod manager** with direct folder access
-- ⚡ **MelonLoader auto-installer**
-- 🔒 **SHA-256 file verification**
-- 📁 **Configurable game paths**
-- 📊 **Download progress tracking**
-- 💾 **Automatic backups** before updates
+## Installation
 
-## Installation 📥
+### Requirements
+- Python 3.8+
+- Windows 10/11 (64-bit recommended)
 
-1. **Requirements**:
-   - Python 3.8+
-   - Windows 10/11 (tested)
+### Quick Start
+```bash
+# Clone repository
+git clone https://github.com/shelugon/PvZ-Fusion-Launcher.git
+cd PvZ-Fusion-Launcher
 
-2. **Quick Start**:
-   ```bash
-   git clone https://github.com/shelugon/PvZ-Fusion-Launcher.git
-   cd PvZ-Fusion-Launcher
-   pip install -r requirements.txt
-   python PVZ_Launcher.py
+# Install dependencies
+pip install -r requirements.txt
+
+# Run launcher
+python PVZ_Launcher.py
