@@ -1,0 +1,10 @@
+{
+    "show_console": true,
+    "show_path_info": true,
+    "hide_melonconsole": false,
+    "launch_without_mods": false,
+    "auto_update": false,
+    "check_updates_on_start": false,
+    "create_backup": false,
+    "verify_hashes": false
+}
