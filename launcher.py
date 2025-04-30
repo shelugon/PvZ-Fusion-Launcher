@@ -19,9 +19,13 @@ from mod_manager import ModManager
 class PVZFusionLauncher:
     def __init__(self, root):
         self.root = root
+<<<<<<< HEAD
         self.root.geometry("800x600")
         self.root.title("PVZ Fusion Launcher")
-        self.current_version = "1.0"
+        self.current_version = "1.0.1"
+=======
+        self.current_version = "1.0.1"
+>>>>>>> 96d10dd068a78d0daec0cb3fa95d75e9632ec0d4
         self.download_queue = Queue()
         
         # Configurações
