@@ -8,12 +8,12 @@ launcher for Plants vs. Zombies Fusion with automatic updates and mod management
 
 ## Features
 
-- **Game Launch**: Direct executable control with parameter customization
-- **Auto-Updater**: Version checking and patching via GitHub Releases
-- **Mod Integration**: Built-in mod folder management
-- **MelonLoader Automation**: One-click installation and configuration
-- **Security Checks**: SHA-256 validation for all downloaded files
-- **Backup System**: Automatic backups before updates
+- **Game Launch**: Direct executable control with parameter customization (Working)
+- **Auto-Updater**: Version checking and patching via GitHub Releases (Broken)
+- **Mods Manages**: Built-in mod folder management (Partially working)
+- **MelonLoader Automation**: One-click installation and configuration (Working)
+- **Security Checks**: SHA-256 validation for all downloaded files (Idk)
+- **Backup System**: Automatic backups before updates (Idk)
 
 ## Installation
 
