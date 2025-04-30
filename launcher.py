@@ -18,7 +18,7 @@ from queue import Queue
 class PVZFusionLauncher:
     def __init__(self, root):
         self.root = root
-        self.current_version = "1.0"
+        self.current_version = "1.1"
         self.download_queue = Queue()
         
         # Inicializa configurações padrão
