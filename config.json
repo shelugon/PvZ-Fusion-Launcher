@@ -1,6 +1,7 @@
 {
     "version": "1.0",
-    "game_path": "D:/Projects/PvZFusionPC-PTBR/Fusion 2.5",
-    "mods_path": "D:/Projects/PvZFusionPC-PTBR/Fusion 2.5\\Mods",
-    "last_update_check": 0
+    "game_path": "D:/Projects/PvZFusionPC-PTBR/Fusion 2.4.2",
+    "mods_path": "D:/Projects/PvZFusionPC-PTBR/Fusion 2.4.2\\Mods",
+    "last_update_check": 0,
+    "game_version": "2022.3.20.8562138"
 }

@@ -1,10 +1,11 @@
 {
     "show_console": true,
     "show_path_info": true,
-    "hide_melonconsole": false,
+    "hide_melonconsole": true,
     "launch_without_mods": false,
-    "auto_update": false,
-    "check_updates_on_start": false,
-    "create_backup": false,
-    "verify_hashes": false
+    "auto_update": true,
+    "check_updates_on_start": true,
+    "create_backup": true,
+    "verify_hashes": true,
+    "auto_install_melon": true
 }
